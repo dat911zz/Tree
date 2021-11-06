@@ -1,3 +1,4 @@
 # Tree
 ## Author
-Mr.Fish
+Draw tree :Mr.Fish
+Tree.h : Me
